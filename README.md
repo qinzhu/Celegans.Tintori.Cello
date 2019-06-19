@@ -7,7 +7,7 @@ Prepared for VisCello by Qin Zhu
 Online version
 ------------------------
 
-Link: https://cello.shinyapps.io/celegans.Tintori/
+Link: https://cello.shinyapps.io/celegans_Tintori/
 
 Bugs you found with the online tool please post to https://github.com/qinzhu/VisCello.
 
